@@ -100,18 +100,13 @@
 </div>
 
 
-<div align="center">
-<h3> If you support me, click here, give me a coffee</h3>
-<a href="https://ko-fi.com/carolinebarbosa" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
-</a>
-</div>
+
 
 <br>
 <br> 
 
 
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
+<img width=100% src="https://github.com/user-attachments/assets/ba77860f-62b5-47e0-8b90-cccfa4d6046d"/>
 
 
 <!--
