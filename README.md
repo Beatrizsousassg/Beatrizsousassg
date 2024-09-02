@@ -34,29 +34,29 @@
 </div>
 
 <div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+  
 
 </div>
 
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+  
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/bc63a634-51b0-456f-8b99-10ea7b82e09d">
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/bc9bddb7-202c-4e67-866d-881b52ffebc4">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/5a296da1-899d-45ef-8abe-24e9e5a6d47c">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/5c878885-5c37-4acf-a617-821c4b91f00a">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/02262b83-a6db-457f-8bf1-9cbc1beeeb51">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/b59fda7b-be6f-4dd5-80b4-74598ba3e383">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/be8f2d36-64a5-475b-b199-fc7e8e7dfbc9">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+
 
 </div>
 
@@ -73,15 +73,12 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/3aefc1f5-8d42-40e8-a0d5-e8ccafd349a2">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/c2218d84-1a88-4240-af1e-d573b5b73be2">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/de54c40e-8754-4a72-a80f-0fbd058bfd62">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
 </div>
 
@@ -95,7 +92,7 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBeatrizsousassg&s=50&c=8000ff&bg=00000000&no=2&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
 
